@@ -1,14 +1,14 @@
 ---
 guest: Sander Schulhoff 2.0
-title: 'AI prompt engineering in 2025: What works and what doesn’t | Sander Schulhoff'
-youtube_url: https://www.youtube.com/watch?v=eKuFqQKYRrA
-video_id: eKuFqQKYRrA
-description: Sander Schulhoff is the OG prompt engineer. He created the very first
-  prompt engineering guide on the internet (two months before ChatGPT’s release) and
-  recently wrote the most comprehensive...
-duration_seconds: 5867.0
-duration: '1:37:47'
-view_count: 78637
+title: Why securing AI is harder than anyone expected and guardrails are failing |
+  HackAPrompt CEO
+youtube_url: https://www.youtube.com/watch?v=J9982NLmTXg
+video_id: J9982NLmTXg
+description: Sander Schulhoff is an AI researcher specializing in AI security, prompt
+  injection, and red teaming. He wrote the first comprehensive guide on prompt engineering.
+duration_seconds: 5561.0
+duration: '1:32:41'
+view_count: 13848
 channel: Lenny's Podcast
 keywords:
 - growth
@@ -28,7 +28,7 @@ keywords:
 - founder
 ---
 
-# AI prompt engineering in 2025: What works and what doesn’t | Sander Schulhoff
+# Why securing AI is harder than anyone expected and guardrails are failing | HackAPrompt CEO
 
 ## Transcript
 

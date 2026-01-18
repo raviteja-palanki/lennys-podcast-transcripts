@@ -127,7 +127,7 @@ Here are some projects that have been built using this transcript archive:
 
 **[Lenny's Frameworks](https://lennys-frameworks.vercel.app/)** - A collection of frameworks and mental models extracted from Lenny's Podcast episodes.
 
-**[Lenny Listens](https://lenny-listens.vercel.app/)** - An interactive tool for exploring and searching Lenny's Podcast content.
+**[Lenny Listens](https://lenny-listens.vercel.app/)** - Uses Lenny’s interviewing methodology to generate AI-led interviews you can run with real customers.
 
 **[Lenny's Advice Arena](https://lennysadvicearena.lovable.app/)** - An interactive experience for exploring product advice from Lenny's Podcast.
 
